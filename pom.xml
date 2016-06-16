@@ -35,7 +35,7 @@
                 </property>
             </activation>
             <properties>
-                <test.package>package1.*</test.package>
+                <test.package>package1.**</test.package>
             </properties>
         </profile>
         <profile>

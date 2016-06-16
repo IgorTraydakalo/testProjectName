@@ -9,7 +9,7 @@ public class Test1 {
 
     @Test
     public void test1(){
-        System.out.println(TestHelper.VERSION_P1 + " :package1.Test1");
+        System.out.println(TestHelper.VERSION_P1 + " :package1.Test1_2");
         assertThat(200).isEqualTo(200);
     }
 }
