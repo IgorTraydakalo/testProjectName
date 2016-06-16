@@ -11,6 +11,6 @@ public class Test2 {
     @Test
     public void test1(){
         System.out.println(TestHelper.VERSION_P1 + " :package1.Test2");
-        assertThat(200).isEqualTo(200);
+        assertThat(200).isEqualTo(100);
     }
 }
